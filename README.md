@@ -17,7 +17,7 @@ Master's in Marketing Analytics 📊
 
 📚 Always Learning:
 
-- 🧐 Staying updated with the latest trends in analytics and digital marketing.
+- Staying updated with the latest trends in advanced analytics.
 
 🤝 Let's Collaborate:
 
