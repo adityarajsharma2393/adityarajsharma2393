@@ -29,7 +29,9 @@ Staying updated with the latest trends in advanced analytics.
 
  Transforming data into dynamic business strategies. Connect with me!
 
+
 📫 Reach me at: asharma54@hawk.iit.edu
+
 
 ⚡ Fun fact: 📊 Balancing data with sketching, 🎸 guitar, and 📖 thriller novels.
 
