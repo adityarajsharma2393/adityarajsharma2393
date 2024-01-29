@@ -19,10 +19,12 @@
  Google Analytics, Salesforce.
 
 📚 Always Learning:
-🧐 Staying updated with the latest trends in advanced analytics.
+
+Staying updated with the latest trends in advanced analytics.
 
 🤝 Let's Collaborate:
-📈 Transforming data into dynamic business strategies. Connect with me!
+
+ Transforming data into dynamic business strategies. Connect with me!
 
 📫 Reach me at: asharma54@hawk.iit.edu
 
