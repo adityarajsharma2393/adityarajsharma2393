@@ -3,25 +3,29 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+
 🎓 Educational Fusion:
-- Engineering Graduate 🌉
-- MBA 📈
-- Master's in Marketing Analytics 📊
+
+👷‍♂️ Engineering Graduate 🌉
+👨‍🎓 MBA 📈
+📚 Master's in Marketing Analytics 📊
 
 🧪 Technical Proficiency & Certifications:
-- Python, R, SPSS.
-- SQL, Tableau, Excel.
-- Google Analytics, Salesforce.
+
+🐍 Python, R, SPSS.
+💼 SQL, Tableau, Excel.
+📊 Google Analytics, Salesforce.
 
 📚 Always Learning:
-- Staying updated with the latest trends in analytics and digital marketing.
+
+🧐 Staying updated with the latest trends in analytics and digital marketing.
 
 🤝 Let's Collaborate:
-- Transforming data into dynamic business strategies. Connect with me!
 
+📈 Transforming data into dynamic business strategies. Connect with me!
 📫 Reach me at: asharma54@hawk.iit.edu
 
-⚡ Fun fact: Balancing data with sketching, guitar, and thriller novels.
+⚡ Fun fact: 📊 Balancing data with sketching, 🎸 guitar, and 📖 thriller novels.
 
 
 <h3 align="left">Connect with me:</h3>
