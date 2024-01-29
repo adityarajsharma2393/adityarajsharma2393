@@ -1,8 +1,5 @@
 ### Hi there 👋 I am Aditya Raj Sharma
 
-<!--
-**adityarajsharma2393/adityarajsharma2393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 📊 Data-Driven Strategist with 5+ years of experience in 📈 data analytics, 📊 data management, and 📱 digital marketing.
 
 🎓 Educational Fusion:
