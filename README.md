@@ -1,4 +1,4 @@
-### Hi there 👋 I am Aditya Raj Sharma
+Hi there 👋 I am Aditya Raj Sharma
 
 📊 Data-Driven Strategist with 5+ years of experience in 📈 data analytics, 📊 data management, and 📱 digital marketing.
 
