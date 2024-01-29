@@ -5,9 +5,9 @@
 
 🎓 Educational Fusion:
 
-👷‍♂️ Engineering Graduate 🌉
-👨‍🎓 MBA 📈
-📚 Master's in Marketing Analytics 📊
+Engineering Graduate 🌉
+MBA 📈
+Master's in Marketing Analytics 📊
 
 🧪 Technical Proficiency & Certifications:
 
