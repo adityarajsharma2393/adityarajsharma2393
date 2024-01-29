@@ -15,7 +15,9 @@
 🧪 Technical Proficiency & Certifications:
 
  Python, R, SPSS.
+ 
  SQL, Tableau, Excel.
+
  Google Analytics, Salesforce.
 
 📚 Always Learning:
