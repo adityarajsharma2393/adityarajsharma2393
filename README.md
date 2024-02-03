@@ -13,8 +13,10 @@ Master's in Marketing Analytics 📊
 
 🧪 Technical Proficiency & Certifications:
 
- 🐍 Python, R, SPSS.
- 💼 SQL, Tableau, Excel.
+🐍 Python, R, SPSS.
+ 
+💼 SQL, Tableau, Excel.
+
 📊 Google Analytics, Salesforce.
 
 📚 Always Learning: Staying updated with the latest trends in advanced analytics.
