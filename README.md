@@ -13,18 +13,16 @@ Master's in Marketing Analytics 📊
 
 🧪 Technical Proficiency & Certifications:
 
-- 🐍 Python, R, SPSS.
-- 💼 SQL, Tableau, Excel.
-- 📊 Google Analytics, Salesforce.
+ 🐍 Python, R, SPSS.
+ 💼 SQL, Tableau, Excel.
+📊 Google Analytics, Salesforce.
 
-📚 Always Learning:
-
-- Staying updated with the latest trends in advanced analytics.
+📚 Always Learning: Staying updated with the latest trends in advanced analytics.
 
 🤝 Let's Collaborate:
 
-- 📈 Transforming data into dynamic business strategies. Connect with me!
-- 📫 Reach me at: asharma54@hawk.iit.edu
+📈 Transforming data into dynamic business strategies. Connect with me!
+📫 Reach me at: asharma54@hawk.iit.edu
 
 ⚡ Fun fact: 📊 Balancing data with sketching, 🎸 guitar, and 📖 thriller novels.
 
