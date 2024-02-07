@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj Sharma</h1>
-<h3 align="center">I am a Data-Driven Strategist with over 5 years of experience based out of Chicago.</h3>
+<h3 align="center">Engineering Innovator | Business Strategy Enthusiast | Marketing Analytics Expert.</h3>
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -7,7 +7,6 @@
 
 
 
-Engineering Innovator | Business Strategy Enthusiast | Marketing Analytics Expert
 
 🎓 Educational Background:
 
