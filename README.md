@@ -8,26 +8,16 @@
 
 Educational Background:
 
-🎓 BSc in Engineering
-
-🏫 MBA, Strategy & Operations
-
-📚 MS in Marketing Analytics
+🎓 BSc in Engineering  🏫 MBA, Strategy & Operations  📚 MS in Marketing Analytics
 
 
 Tech Skills & Certs:
 
-🐍 Python, R
+🐍 Python, R  🔍 SPSS
 
-🔍 SPSS
+💼 SQL   📈 Tableau, Power BI
 
-💼 SQL
-
-📈 Tableau, Power BI
-
-📊 Google Analytics
-
-💡 Salesforce
+📊 Google Analytics  💡 Salesforce
 
 Let's Connect:
 
