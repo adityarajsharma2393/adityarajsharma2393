@@ -7,10 +7,7 @@
 
 
 
-
-🎓 Educational Background:
-
-Educational Background:
+ Educational Background:
 
 🎓 Bachelor of Science in Engineering
 🏫 MBA with a focus on Strategy and Operations
