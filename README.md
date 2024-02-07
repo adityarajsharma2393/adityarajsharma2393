@@ -9,20 +9,31 @@
 Educational Background:
 
 🎓 BSc in Engineering
+
 🏫 MBA, Strategy & Operations
+
 📚 MS in Marketing Analytics
+
+
 Tech Skills & Certs:
 
 🐍 Python, R
+
 🔍 SPSS
+
 💼 SQL
+
 📈 Tableau, Power BI
+
 📊 Google Analytics
+
 💡 Salesforce
+
 Let's Connect:
 
 👥 Seeking collaborative data-driven projects.
 📧 asharma54@hawk.iit.edu
+
 Interests:
 
 ⚡ Creative mind: 🎨🎸📖
