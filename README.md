@@ -17,28 +17,32 @@
 
 Technical Proficiency & Certifications:
 
-Analytics & Data Science:
-
 🐍 Python and R for data analysis
 
 🔍 SPSS for statistical research
 
-Business Intelligence & Data Visualization:
-
 💼 Advanced SQL for database management
+
 📈 Tableau for compelling data visualizations
+
 🧮 Excel for advanced data manipulation and analysis
+
 Digital Marketing & CRM:
 
 📊 Google Analytics Certified Professional
+
 💡 Salesforce for CRM and sales strategy implementation
+
 Professional Development:
 
 🚀 Committed to continuous learning in advanced analytics and data-driven decision-making.
+
 Collaboration & Contact:
 
 👥 Open to collaboration on projects that drive business growth through data insights.
+
 📧 Reach out to me at asharma54@hawk.iit.edu
+
 Personal Interests:
 
 ⚡ Fun fact: Balancing the analytical mind with creative pursuits like 🎨 sketching, 🎸 playing guitar, and 📖 diving into thriller novels.
