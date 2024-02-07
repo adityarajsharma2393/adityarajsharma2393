@@ -10,14 +10,19 @@
  Educational Background:
 
 🎓 Bachelor of Science in Engineering
+
 🏫 MBA with a focus on Strategy and Operations
+
 📚 Master of Science in Marketing Analytics
+
 Technical Proficiency & Certifications:
 
 Analytics & Data Science:
 
 🐍 Python and R for data analysis
+
 🔍 SPSS for statistical research
+
 Business Intelligence & Data Visualization:
 
 💼 Advanced SQL for database management
