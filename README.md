@@ -31,7 +31,7 @@ INTEREST:
 
 
 <h3 align="right">Connect with me:</h3>
-<p align="left">
+<p align="right">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-raj-sharma0612/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-raj-sharma0612/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/raj_sharma3932/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raj_sharma3932/" height="30" width="40" /></a>
 
