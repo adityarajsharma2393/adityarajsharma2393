@@ -16,6 +16,7 @@ EDUCATIONAL BACKGROUND:
 📚 MS in Marketing Analytics
 
 
+
 TECH SKILLS & CERTS:
 
 🐍 Python, R  🔍 SPSS
@@ -24,10 +25,14 @@ TECH SKILLS & CERTS:
 
 📊 Google Analytics  💡 Salesforce
 
+
+
 LET'S CONNECT:
 
 👥 Seeking collaborative data-driven projects.
 📧 asharma54@hawk.iit.edu
+
+
 
 INTEREST:
 
