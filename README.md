@@ -23,9 +23,7 @@ Technical Proficiency & Certifications:
 
 💼 Advanced SQL for database management
 
-📈 Tableau for compelling data visualizations
-
-🧮 Excel for advanced data manipulation and analysis
+📈 Tableau and Power B1 for compelling data visualizations
 
 Digital Marketing & CRM:
 
@@ -33,9 +31,6 @@ Digital Marketing & CRM:
 
 💡 Salesforce for CRM and sales strategy implementation
 
-Professional Development:
-
-🚀 Committed to continuous learning in advanced analytics and data-driven decision-making.
 
 Collaboration & Contact:
 
