@@ -9,7 +9,11 @@
 
 EDUCATIONAL BACKGROUND:
 
-🎓 BSc in Engineering   🏫 MBA, Strategy & Operations   📚 MS in Marketing Analytics
+🎓 BSc in Engineering  
+
+🏫 MBA, Strategy & Operations   
+
+📚 MS in Marketing Analytics
 
 
 TECH SKILLS & CERTS:
