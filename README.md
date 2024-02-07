@@ -1,30 +1,47 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj Sharma</h1>
 <h3 align="center">I am a Data-Driven Strategist with over 5 years of experience based out of Chicago.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-🎓 Educational Fusion:
 
-Engineering Graduate 🌉
 
-MBA 📈
 
-Master's in Marketing Analytics 📊
+Engineering Innovator | Business Strategy Enthusiast | Marketing Analytics Expert
 
-🧪 Technical Proficiency & Certifications:
+🎓 Educational Background:
 
-🐍 Python, R, SPSS.
- 
-💼 SQL, Tableau, Excel.
+Educational Background:
 
-📊 Google Analytics, Salesforce.
+🎓 Bachelor of Science in Engineering
+🏫 MBA with a focus on Strategy and Operations
+📚 Master of Science in Marketing Analytics
+Technical Proficiency & Certifications:
 
-📚 Always Learning: Staying updated with the latest trends in advanced analytics.
+Analytics & Data Science:
 
-🤝 Let's Collaborate: 📫 Reach me at: asharma54@hawk.iit.edu
+🐍 Python and R for data analysis
+🔍 SPSS for statistical research
+Business Intelligence & Data Visualization:
 
-⚡ Fun fact: 📊 Balancing data with sketching, 🎸 guitar, and 📖 thriller novels.
+💼 Advanced SQL for database management
+📈 Tableau for compelling data visualizations
+🧮 Excel for advanced data manipulation and analysis
+Digital Marketing & CRM:
+
+📊 Google Analytics Certified Professional
+💡 Salesforce for CRM and sales strategy implementation
+Professional Development:
+
+🚀 Committed to continuous learning in advanced analytics and data-driven decision-making.
+Collaboration & Contact:
+
+👥 Open to collaboration on projects that drive business growth through data insights.
+📧 Reach out to me at asharma54@hawk.iit.edu
+Personal Interests:
+
+⚡ Fun fact: Balancing the analytical mind with creative pursuits like 🎨 sketching, 🎸 playing guitar, and 📖 diving into thriller novels.
+
 
 
 
