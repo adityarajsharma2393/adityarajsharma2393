@@ -19,20 +19,15 @@ EDUCATIONAL BACKGROUND:
 
 TECH SKILLS & CERTS:
 
-🐍 Python, R  🔍 SPSS
-
 💼 SQL   📈 Tableau, Power BI
 
 📊 Google Analytics  💡 Salesforce
-
 
 
 LET'S CONNECT:
 
 👥 Seeking collaborative data-driven projects.
 📧 asharma54@hawk.iit.edu
-
-
 
 INTEREST:
 
